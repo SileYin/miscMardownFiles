@@ -1,45 +1,45 @@
-    # Bob Marley
+# Bob Marley
 
-    ## Instrument list ranked by loudness
+## Instrument list ranked by loudness
 
-    1. Loudest instrument
-    2. Second loudest instrument
-    3. Third loudest instrument
-    4. etc.
-
-
-    ## Relative comparisons
-
-    I think the loudest instrument is the xxx, which is about xxx-times as loud as the xxx.
-    A few more sentences....
+1. Loudest instrument
+2. Second loudest instrument
+3. Third loudest instrument
+4. etc.
 
 
-    # No Doubt
+## Relative comparisons
 
-    ## Instrument list ranked by loudness
-
-    1. Loudest instrument
-    2. Second loudest instrument
-    3. Third loudest instrument
-    4. etc.
+I think the loudest instrument is the xxx, which is about xxx-times as loud as the xxx.
+A few more sentences....
 
 
-    ## Relative comparisons
+# No Doubt
 
-    I think the loudest instrument is the xxx, which is about xxx-times as loud as the xxx.
-    A few more sentences....
+## Instrument list ranked by loudness
 
-    # The Beatles 
-
-    ## Instrument list ranked by loudness
-
-    1. Loudest instrument
-    2. Second loudest instrument
-    3. Third loudest instrument
-    4. etc.
+1. Loudest instrument
+2. Second loudest instrument
+3. Third loudest instrument
+4. etc.
 
 
-    ## Relative comparisons
+## Relative comparisons
 
-    I think the loudest instrument is the xxx, which is about xxx-times as loud as the xxx.
-    A few more sentences....
+I think the loudest instrument is the xxx, which is about xxx-times as loud as the xxx.
+A few more sentences....
+
+# The Beatles 
+
+## Instrument list ranked by loudness
+
+1. Loudest instrument
+2. Second loudest instrument
+3. Third loudest instrument
+4. etc.
+
+
+## Relative comparisons
+
+I think the loudest instrument is the xxx, which is about xxx-times as loud as the xxx.
+A few more sentences....
